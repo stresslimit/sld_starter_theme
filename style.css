@@ -1,0 +1,84 @@
+/*
+Theme Name: stress starter
+Theme URI: http://stresslimitdesign.com/labs/wp-starter
+Description: slick, yet nifty
+Author: stresslimit
+Author URI: http://stresslimitdesign.com
+Version: 0.2
+*/
+
+
+/*  --------------------------------------------------------------
+	RESET
+	-------------------------------------------------------------*/
+
+html, body, div, span, a, img,
+h1, h2, h3, h4, h5, h6, hgroup, p,
+dl, dialog, dt, dd, ol, ul, li, 
+abbr, acronym, address, b, big, blockquote, 
+cite, code, del, dfn, em, i, ins, kbd, pre, q, 
+samp, tt, var, small, strong, sub, sup, 
+object, iframe, form, fieldset, label, legend, 
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, footer, header, nav, section,
+figure, menu, time, mark, audio, video						{ font-family: inherit; font-size: 100%; font-weight: inherit; font-style: inherit; vertical-align: baseline; white-space: normal; text-align: left; margin: 0; padding: 0; border: 0; outline: 0; background: transparent; }
+textarea, input, select										{ font-family: inherit; font-size: 100%; font-weight: normal; font-style: normal; white-space: normal; text-align: left; margin: 0; padding: 0; }
+article, aside, footer, header, nav, section,
+dialog, figure, hgroup, menu								{ display: block; }
+
+h1, h2, h3, h4, h5, h6										{ font-size:100%; font-weight:normal; }
+del, ins													{ text-decoration:none; }
+ol, ul														{ list-style:none; }
+nav ul														{ list-style-type:none; }
+table														{ border-collapse:separate; border-spacing:0; background-color:transparent; width:auto; height:auto; }
+:focus														{ outline:0; }
+blockquote:before, blockquote:after, q:before, q:after		{ content:""; }
+blockquote, q												{ quotes:"" ""; }
+html { height:100%; }
+body { min-height:100%; }
+
+
+/*  --------------------------------------------------------------
+	BASICS
+	-------------------------------------------------------------*/
+
+body { font-size:16px; line-height:1.4; }
+.container { width:1008px; margin:0 auto; }
+
+/* typography */
+p { margin:0 0 0.8em 0; }
+strong, b { font-weight:bold; }
+em, i { font-style:italic; }
+small, .small { font-size:0.8em; }
+blockquote, q { quotes:none; padding:0 55px 0; margin:1.5em 0; }
+pre { white-space:pre-wrap; padding:0 55px 0; margin:1.5em 0; }
+sup { line-height:1; vertical-align:baseline; bottom:0.8em; font-size:50%; }
+
+/*  headings */
+h1,h2,h3,h4,h5,h6 {}
+h1 { font-size:2em; }
+h2 { font-size:1.8em; }
+h3 { font-size:1.6em; }
+h4 { font-size:1.4em; }
+h5 { font-size:1.2em; }
+h6 { font-size:1.1em; }
+
+/* links */
+a			{ /*color:#333; text-decoration:none;*/ }
+a:hover 	{ /*color:#009dbe; text-decoration:underline; outline:none;*/ }
+a:active	{ outline:none; }
+/*a			{ -webkit-transition:all 0.2s ease-in-out; -moz-transition:all 0.2s ease-in-out; -o-transition:all 0.2s ease-in-out; }*/
+
+/* images */
+img {  }
+
+/* tables */
+table { border-collapse:collapse; border-spacing:0; }
+th { font-weight:bold; }
+td, td img { vertical-align:top; } 
+
+/* lists */
+article ul, article ol { margin-left:0.8em; }
+article li { margin-left:1.2em; margin-bottom:0.8em; }
+article ol li { list-style-type:decimal; }
+article ul li { list-style-type:disc; }
