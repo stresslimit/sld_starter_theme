@@ -1,14 +1,13 @@
-
 ajax-thumbnail-rebuild http://plugins.svn.wordpress.org/ajax-thumbnail-rebuild/trunk/
 editorial-calendar http://plugins.svn.wordpress.org/editorial-calendar/trunk/
 custom-metadata http://plugins.svn.wordpress.org/custom-metadata/trunk/
 #google-sitemap-generator http://plugins.svn.wordpress.org/google-sitemap-generator/trunk/
-#email-address-encoder http://plugins.svn.wordpress.org/email-address-encoder/trunk/
+#email-address-encoder http://plugins.svn.wordpress.org/email-address-encoder/tags/1.0.3/
+grunion-contact-form http://plugins.svn.wordpress.org/grunion-contact-form/tags/2.3/
 #posts-to-posts http://plugins.svn.wordpress.org/posts-to-posts/trunk/
 #rich-text-tags http://plugins.svn.wordpress.org/rich-text-tags/trunk/
 simple-page-ordering http://plugins.svn.wordpress.org/simple-page-ordering/trunk/
 sld-custom-content-and-taxonomies http://plugins.svn.wordpress.org/sld-custom-content-and-taxonomies/trunk/
 #taxonomy-terms-order http://plugins.svn.wordpress.org/taxonomy-terms-order/trunk/
-#wp-mail-smtp http://plugins.svn.wordpress.org/wp-mail-smtp/trunk/
-#w3-total-cache http://plugins.svn.wordpress.org/w3-total-cache/tags/0.9.2.4/
-
+#wp-mail-smtp http://plugins.svn.wordpress.org/wp-mail-smtp/tags/0.9.1/
+#w3-total-cache http://plugins.svn.wordpress.org/w3-total-cache/tags/0.9.2.5/
