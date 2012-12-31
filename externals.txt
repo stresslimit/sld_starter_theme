@@ -3,7 +3,7 @@ editorial-calendar http://plugins.svn.wordpress.org/editorial-calendar/trunk/
 custom-metadata http://plugins.svn.wordpress.org/custom-metadata/trunk/
 #email-address-encoder http://plugins.svn.wordpress.org/email-address-encoder/tags/1.0.3/
 #google-sitemap-generator http://plugins.svn.wordpress.org/google-sitemap-generator/trunk/
-grunion-contact-form http://plugins.svn.wordpress.org/grunion-contact-form/tags/2.3/
+#grunion-contact-form http://plugins.svn.wordpress.org/grunion-contact-form/tags/2.3/
 #posts-to-posts http://plugins.svn.wordpress.org/posts-to-posts/trunk/
 #rich-text-tags http://plugins.svn.wordpress.org/rich-text-tags/trunk/
 simple-page-ordering http://plugins.svn.wordpress.org/simple-page-ordering/trunk/
